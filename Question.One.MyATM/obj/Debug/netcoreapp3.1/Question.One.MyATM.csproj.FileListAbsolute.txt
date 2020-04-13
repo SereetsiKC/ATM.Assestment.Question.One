@@ -1,0 +1,7 @@
+C:\Users\kopanos\source\repos\ATM.Assestment.Question.One\Question.One.MyATM\bin\Debug\netcoreapp3.1\Question.One.MyATM.deps.json
+C:\Users\kopanos\source\repos\ATM.Assestment.Question.One\Question.One.MyATM\bin\Debug\netcoreapp3.1\Question.One.MyATM.dll
+C:\Users\kopanos\source\repos\ATM.Assestment.Question.One\Question.One.MyATM\bin\Debug\netcoreapp3.1\Question.One.MyATM.pdb
+C:\Users\kopanos\source\repos\ATM.Assestment.Question.One\Question.One.MyATM\obj\Debug\netcoreapp3.1\Question.One.MyATM.AssemblyInfoInputs.cache
+C:\Users\kopanos\source\repos\ATM.Assestment.Question.One\Question.One.MyATM\obj\Debug\netcoreapp3.1\Question.One.MyATM.AssemblyInfo.cs
+C:\Users\kopanos\source\repos\ATM.Assestment.Question.One\Question.One.MyATM\obj\Debug\netcoreapp3.1\Question.One.MyATM.dll
+C:\Users\kopanos\source\repos\ATM.Assestment.Question.One\Question.One.MyATM\obj\Debug\netcoreapp3.1\Question.One.MyATM.pdb
